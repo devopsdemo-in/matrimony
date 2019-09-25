@@ -92,7 +92,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://52.66.210.171:8081/nexus/content/repositories/snapshots/</url>
+			<url>http://ec2-13-127-243-89.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/Matrimony-backend/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
